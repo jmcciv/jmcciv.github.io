@@ -1,2 +1,1 @@
-# jmcciv.github.io
-Arknights Material Display
+# Arknights Material Display
