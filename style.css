@@ -2,6 +2,22 @@
   background: rgba(0,0,0,0) url(/images/background/Item_Tier_1.png) 50% 50%/cover no-repeat scroll padding-box border-box;
 }
 
+.item-t2 {
+  background: rgba(0,0,0,0) url(/images/background/Item_Tier_2.png) 50% 50%/cover no-repeat scroll padding-box border-box;
+}
+
+.item-t3 {
+  background: rgba(0,0,0,0) url(/images/background/Item_Tier_3.png) 50% 50%/cover no-repeat scroll padding-box border-box;
+}
+
+.item-t4 {
+  background: rgba(0,0,0,0) url(/images/background/Item_Tier_4.png) 50% 50%/cover no-repeat scroll padding-box border-box;
+}
+
+.item-t5 {
+  background: rgba(0,0,0,0) url(/images/background/Item_Tier_5.png) 50% 50%/cover no-repeat scroll padding-box border-box;
+}
+
 div.gallery {
   border: 1px solid #ccc;
 }
