@@ -18,6 +18,16 @@
   background: rgba(0,0,0,0) url(/images/background/Item_Tier_5.png) 50% 50%/cover no-repeat scroll padding-box border-box;
 }
 
+.item .inner, .item-nobg .inner {
+  width: 60px;
+  height: 60px;
+  border-radius: 20px;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
 div.gallery {
   border: 1px solid #ccc;
 }
